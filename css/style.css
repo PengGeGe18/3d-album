@@ -205,7 +205,7 @@ carousel
 		background-position: center;
 		background-size: cover;
 		transition: filter var(--carousel-transition-duration) var(--carousel-transition-ease);
-		filter: grayscale(100%);
+		filter: grayscale(0%);
 }
 
 .carousel .carousel-item:hover a {
